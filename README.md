@@ -1,6 +1,6 @@
 # Robot adventures with cubes
-## Project Lab on Intelligent Robotic Manipulation @ iRosa, TU Darmstadt (https://irosalab.com/)
-## by Team AGI: Rickmer Krohn, Kai Liu, Nicolas Nonnengießer and Qiao Sun (equal contribution)
+% ## Project Lab on Intelligent Robotic Manipulation @ iRosa, TU Darmstadt (https://irosalab.com/)
+% ## by Team AGI: Rickmer Krohn, Kai Liu, Nicolas Nonnengießer and Qiao Sun (equal contribution)
 
 
 Hello everyone! 
